@@ -49,10 +49,12 @@ layout: post
    ```
    bundle exec jekyll serve
    ```
+
+   <div style="text-align:right;"><a href="/create-blog.html"><<< BACK</a><br/></div>
 ---
 
 {: data-content="footnotes"}
 
 參考 <br/>
-[Creating a GitHub Pages site](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) <br/>
-[jekyll themes](http://jekyllthemes.org/)
+<a href="https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll" target="_blank">Creating a GitHub Pages site</a> <br/>
+<a href="http://jekyllthemes.org/" target="_blank">jekyll themes</a>
