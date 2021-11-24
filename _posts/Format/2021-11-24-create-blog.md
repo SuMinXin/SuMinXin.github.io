@@ -4,6 +4,27 @@ layout: post
 
 <h3>用 github + jekyll 建立個人頁</h3>
 
+0. 前置作業
+   - 安裝 Jekyll -> <a href="https://jekyllrb.com/docs/installation/windows/" target="_blank">Jekyll on Windows</a>
+     - 更新現有 repository & packages
+       ```
+       sudo apt-get update -y && sudo apt-get upgrade -y
+       ```
+     - 安裝Ruby
+        ```
+        sudo apt-add-repository ppa:brightbox/ruby-ng
+        sudo apt-get update
+        sudo apt-get install ruby2.5 ruby2.5-dev build-essential dh-autoreconf
+        ```
+     - 更新至最新版 <br/>
+       ```
+       gem update
+       ```
+     - 安裝jekyll
+       ```
+       gem install jekyll bundler
+       ```
+            
 1. 建立repository <br/>
    ![repo](/images/create-pages/REPO.PNG)
     - 命名為 \<user>.github.io
@@ -23,7 +44,7 @@ layout: post
          - 修改 Gemfile 設定 <br/>
             - gem "jekyll" 修改為 <br/> `#gem "jekyll"`
             - gem "github-pages" 修改為 <br/> `gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins` <br/>
-             (將 {GITHUB-PAGES-VERSION} 換成 [最新版](https://pages.github.com/versions/))
+             (將 {GITHUB-PAGES-VERSION} 換成<a href="https://pages.github.com/versions/" target="_blank">最新版</a>)
 
          - 自動下載並安裝 Gem 套件
             ```
