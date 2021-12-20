@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<div style="text-align:right;"><a href="/D-D-D.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
 
 # 概念 <br/>
 
@@ -67,4 +67,4 @@ layout: post
    -> 導致模型與實作脫節，無法深化，最終棄置
 ---
 
-<div style="text-align:right;"><a href="/D-D-D.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
