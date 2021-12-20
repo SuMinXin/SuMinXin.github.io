@@ -12,6 +12,9 @@ project_entries:
   - title: 基本樣式設定
     url: format
     desc: 主題基本樣式範例
+  - title: 閱讀心得
+    url: D-D-D
+    desc: 領域驅動設計
 #
 #  - title: Project 3
 #    url: overview-post
