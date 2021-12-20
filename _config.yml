@@ -1,7 +1,6 @@
 title: Myn's Blog
 url: https://suminxin.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Notes
 
 permalink: /:slug.html
 
