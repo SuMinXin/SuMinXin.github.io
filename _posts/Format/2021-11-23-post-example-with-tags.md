@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<div style="text-align:right;"><a href="/format.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/format.html"><<< Back To Menu</a><br/></div>
 
 
 頁面書籤設定 <br/>
@@ -28,4 +28,4 @@ Proin quis velit et eros auctor laoreet. Aenean eget nibh odio. Suspendisse moll
 
 Donec ex lectus, tempus non lacinia quis, pretium non ipsum. Praesent est nunc, rutrum vel tellus eu, tristique laoreet purus. In rutrum orci sit amet ex ornare, sit amet finibus lacus laoreet. Etiam ac facilisis purus, eget porttitor odio. Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus. Vivamus at purus sed urna sollicitudin mattis. Mauris lacinia libero in lobortis pulvinar. Nullam sit amet condimentum justo. Donec orci justo, pharetra ut dolor non, interdum finibus orci. Proin vitae ante a dui sodales commodo ac id elit. Nunc vel accumsan nunc, sit amet congue nunc. Aliquam in lacinia velit. Integer lobortis luctus eros, in fermentum metus aliquet a. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
-<div style="text-align:right;"><a href="/format.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/format.html"><<< Back To Menu</a><br/></div>

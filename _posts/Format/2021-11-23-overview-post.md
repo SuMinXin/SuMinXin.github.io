@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<div style="text-align:right;"><a href="/format.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/format.html"><<< Back To Menu</a><br/></div>
 
 基本樣式 <br/>
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
@@ -77,7 +77,7 @@ Now a table:
 
 This is an image[^4]
 
-<div style="text-align:right;"><a href="/format.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/format.html"><<< Back To Menu</a><br/></div>
 ---
 {: data-content="footnotes"}
 

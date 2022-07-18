@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< Back To Menu</a><br/></div>
 
 # 領域模型 <br/>
   > 模型來自於專案成員的「概念」，包含「類別」和「主要操作」，
@@ -54,7 +54,4 @@ layout: post
 
 ---
 
- ## 如何維護領域模型?
-<br/><br/>
-
-<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< Back To Menu</a><br/></div>

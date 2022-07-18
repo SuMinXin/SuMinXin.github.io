@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< Back To Menu</a><br/></div>
 
 # 概念 <br/>
 
@@ -68,4 +68,4 @@ layout: post
    
 ---
 
-<div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
+<div style="text-align:right;"><a href="/d-d-d.html"><<< Back To Menu</a><br/></div>
