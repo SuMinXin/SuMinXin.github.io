@@ -65,6 +65,7 @@ layout: post
   03: \
    規劃初期就進行建模，但將開發人員獨立出來 \
    -> 導致模型與實作脫節，無法深化，最終棄置
+   
 ---
 
 <div style="text-align:right;"><a href="/d-d-d.html"><<< BACK</a><br/></div>
